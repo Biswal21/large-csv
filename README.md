@@ -1,4 +1,4 @@
-# Pulling Large CSV in chunks from aws-s3 buckets using React
+# Pulling Large CSV in chunks from aws-s3 buckets in React
 - Using datatype of ReadableSTream(Typescript ref)
 - Parsing csv rows and header in Papaparse library
 
